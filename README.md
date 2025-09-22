@@ -32,15 +32,14 @@ This repository contains a complete end-to-end credit risk classification pipeli
    ```bash
    git clone https://github.com/ruthvikameka/Credit-Risk-Prediction.git
    cd Credit-Risk-Prediction
-Install dependencies
-It should contain standard ML dependencies like pandas, numpy, scikit-learn, xgboost, lightgbm, imbalanced-learn, and shap.
+2.**Install dependencies**
+It should contain standard ML dependencies like pandas, numpy, scikit-learn, xgboost.
 
-bash
-Copy code
+```bash
 pip install -r requirements.txt
-Place your dataset in the data/ folder (e.g. credit_data.csv), matching the loading path in the notebook.
-
-Launch the notebook
+3.**Place your dataset**
+place your in the data/ folder (e.g. credit_data.csv), matching the loading path in the notebook.
+4.**Launch the notebook**
 
 bash
 Copy code

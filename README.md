@@ -34,13 +34,14 @@ This repository contains a complete end-to-end credit risk classification pipeli
    cd Credit-Risk-Prediction
 2.**Install dependencies**
 It should contain standard ML dependencies like pandas, numpy, scikit-learn, xgboost.
+  pip install -r requirements.txt
 
-pip install -r requirements.txt
 
 
 
   
 3.**Place your dataset**
+
 place your in the data/ folder (e.g. credit_data.csv), matching the loading path in the notebook.
 
 4.**Launch the notebook**

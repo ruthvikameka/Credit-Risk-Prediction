@@ -1,4 +1,4 @@
-# Credit Risk Prediction 🚀
+# Credit Risk Prediction 
 
 This repository contains a complete end-to-end credit risk classification pipeline implemented in `MAIN.ipynb`. It walks through data loading, exploratory data analysis (EDA), preprocessing, model training and evaluation. The models included are commonly used ML algorithms such as Logistic Regression, Random Forest, XGBoost, LightGBM, AdaBoost, Neural Networks, etc.
 
@@ -8,8 +8,7 @@ This repository contains a complete end-to-end credit risk classification pipeli
 
 .
 ├── MAIN.ipynb # Main Jupyter notebook with EDA, preprocessing & ML pipeline
-├── data/ # Placeholder for input datasets (CSV, Excel, etc.)
-├── requirements.txt # Python dependencies
+├── .CSV file/ # Placeholder for input datasets (CSV, Excel, etc.)
 └── README.md # Project overview and instructions
 
 yaml

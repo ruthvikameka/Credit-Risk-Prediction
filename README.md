@@ -14,17 +14,6 @@ This repository contains a complete end-to-end credit risk classification pipeli
 
 ---
 
-## ✅ Features
-
-- **Data Loading & EDA**: Summary statistics, missing values, correlations, distributions, class imbalance insights  
-- **Preprocessing**: Encoding categorical features, scaling numerical values, handling missing data, balancing (SMOTE, etc.)  
-- **Feature Engineering & Selection**: Correlation analysis and feature importance visualizations  
-- **Model Training**: Compare models such as Logistic Regression, Random Forest, XGBoost, LightGBM, AdaBoost, Neural Networks  
-- **Evaluation Metrics**: Accuracy, Precision, Recall, F1-score, ROC-AUC, Matthews Correlation Coefficient (MCC)  
-- **Best-model selection**: Based on model performance consistency and interpretability  
-- **Visual Analysis**: Confusion matrix, ROC curves, SHAP or feature importance plots  
-
----
 
 ## 💻 Installation & Setup
 

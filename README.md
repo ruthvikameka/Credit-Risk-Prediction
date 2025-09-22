@@ -5,8 +5,6 @@ This repository contains a complete end-to-end credit risk classification pipeli
 ---
 
 ## 📁 Repository Structure
-
-.
 ├── MAIN.ipynb # Main Jupyter notebook with EDA, preprocessing & ML pipeline
 
 ├── .CSV file/ # Placeholder for input datasets (CSV, Excel, etc.)   

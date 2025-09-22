@@ -20,6 +20,11 @@ This repository contains a complete end-to-end credit risk classification pipeli
    ```bash
    git clone https://github.com/ruthvikameka/Credit-Risk-Prediction.git
    cd Credit-Risk-Prediction
+1.**clone the repository**
+```bash
+   git clone https://github.com/ruthvikameka/Credit-Risk-Prediction.git
+   cd Credit-Risk-Prediction
+```
   2.**Install dependencies**
 It should contain standard ML dependencies like pandas, numpy, scikit-learn, xgboost.
   ```bash 

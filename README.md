@@ -35,31 +35,12 @@ place your in the data/ folder (e.g. credit_data.csv), matching the loading path
 
 4.**Launch the notebook**
 
- ``bash
+```bash
  jupyter notebook MAIN.ipynb
 
 Or use Google Colab by uploading the notebook there.
-Here’s the corrected section:
-
-## 💻 Installation & Setup
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/ruthvikameka/Credit-Risk-Prediction.git
-   cd Credit-Risk-Prediction
 
 
-Install dependencies
-
-pip install -r requirements.txt
-
-
-Place your dataset
-Place your dataset in the data/ folder (e.g. credit_data.csv), matching the loading path in the notebook.
-
-Launch the notebook
-
-jupyter notebook MAIN.ipynb
 
 
 Or use Google Colab by uploading the notebook there.

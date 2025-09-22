@@ -35,15 +35,15 @@ This repository contains a complete end-to-end credit risk classification pipeli
 2.**Install dependencies**
 It should contain standard ML dependencies like pandas, numpy, scikit-learn, xgboost.
 
-```bash
-pip install -r requirements.txt
+ ``bash
+ pip install -r requirements.txt
 3.**Place your dataset**
 place your in the data/ folder (e.g. credit_data.csv), matching the loading path in the notebook.
 4.**Launch the notebook**
 
-bash
-Copy code
+ ``bash
 jupyter notebook MAIN.ipynb
+
 Or use Google Colab by uploading the notebook there.
 
 🧪 Usage

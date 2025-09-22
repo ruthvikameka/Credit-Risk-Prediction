@@ -16,10 +16,6 @@ This repository contains a complete end-to-end credit risk classification pipeli
 
 
 ## 💻 Installation & Setup
-1. **Clone the repository**  
-   ```bash
-   git clone https://github.com/ruthvikameka/Credit-Risk-Prediction.git
-   cd Credit-Risk-Prediction
 1.**clone the repository**
 ```bash
    git clone https://github.com/ruthvikameka/Credit-Risk-Prediction.git

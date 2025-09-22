@@ -1,6 +1,6 @@
 # Credit Risk Prediction 
 
-This repository contains a complete end-to-end credit risk classification pipeline implemented in `MAIN.ipynb`. It walks through data loading, exploratory data analysis (EDA), preprocessing, model training and evaluation. The models included are commonly used ML algorithms such as Logistic Regression, Random Forest, XGBoost, LightGBM, AdaBoost, Neural Networks, etc.
+This repository contains a complete end-to-end credit risk classification pipeline implemented in `MAIN.ipynb`. It walks through data loading, exploratory data analysis (EDA), preprocessing, model training and evaluation. The model includes commonly used ML algorithms such as Logistic Regression, Random Forest, XGBoost, LightGBM, AdaBoost, Neural Networks, etc.
 
 ---
 
